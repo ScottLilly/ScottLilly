@@ -7,5 +7,4 @@
 
 ### 🌱 I’m currently learning:
 - Enough Linux to let me test my .NET 6 programs in Linux
-- [Avalonia UI](http://avaloniaui.net/), to make my WPF apps cross-platform
 - Personal DevOps skills, to better manage my personal projects
