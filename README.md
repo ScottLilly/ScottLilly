@@ -6,5 +6,6 @@
 - [SOSCSRPG](https://soscsrpg.com/), a programming guide for people who want to learn C# by building a simple RPG
 
 ### 🌱 I’m currently learning:
-- Enough Linux to let me test my .NET 6 programs in Linux
-- Personal DevOps skills, to better manage my personal projects
+- Blazor server development
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ScottLilly&show_icons=true&theme=radical)
