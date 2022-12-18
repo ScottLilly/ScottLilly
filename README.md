@@ -8,4 +8,4 @@
 ### 🌱 I’m currently learning:
 - Blazor server development
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ScottLilly&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ScottLilly&show_icons=true&theme=prussian)
