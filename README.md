@@ -1,11 +1,10 @@
 ### Hello 👋
 
 ### 🔭 I’m currently working on:
-- [MegaCorpClash](https://github.com/ScottLilly/MegaCorpClash), an interactive game for Twitch streamers and people in their chat
-- [Pinax](https://github.com/ScottLilly/Pinax), an app to identify outdated versions of .NET or NuGet packages for C# solutions/projects
-- [SOSCSRPG](https://soscsrpg.com/), a programming guide for people who want to learn C# by building a simple RPG
+- [Legba](https://github.com/LillySoftwareConsulting/Legba), a desktop app to help make better prompts for OpenAI
+- [ArgumentParser](https://github.com/ScottLilly/ArgumentParser), a future NuGet package to parse sommand line arguments
 
 ### 🌱 I’m currently learning:
-- Blazor server development
+- Python
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ScottLilly&show_icons=true&theme=prussian)
