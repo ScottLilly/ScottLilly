@@ -6,6 +6,6 @@
 - [RobustAPITemplate](https://github.com/ScottLilly/RobustApiTemplate), a template for enterprise-quality REST APIs in C# **NOTE:** Due to much of this being in .NET Aspire, I may stop work on this project.
 
 ### :book: I'm currently researching
-- Incorporating AI in custom line-of-business applications
+- Incorporating AI in custom line-of-business applications.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ScottLilly&show_icons=true&theme=prussian)
