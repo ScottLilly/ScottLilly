@@ -7,5 +7,3 @@
 
 ### :book: Currently researching:
 - Incorporating AI in custom line-of-business applications.
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ScottLilly&show_icons=true&theme=prussian)
