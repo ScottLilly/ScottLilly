@@ -5,4 +5,4 @@
 - [CSharpExtender](https://github.com/ScottLilly/CSharpExtender), a [NuGet package](https://www.nuget.org/packages/ScottLilly.CSharpExtender/) with extension methods, base classes, etc. that I often use in projects. Working on the 3.0 version, which will be .NET 8.0.
 
 ### :book: Currently researching:
-- Incorporating AI in custom line-of-business applications.
+- Integrating my local LLM computer into my development process.
