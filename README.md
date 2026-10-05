@@ -19,19 +19,6 @@ Small libraries pulled out of code I kept copying between solutions.
 | [ScottLilly.ArgumentParser](https://www.nuget.org/packages/ScottLilly.ArgumentParser/) | ![v](https://img.shields.io/nuget/v/ScottLilly.ArgumentParser?style=flat-square&label=) | ![d](https://img.shields.io/nuget/dt/ScottLilly.ArgumentParser?style=flat-square&label=&color=423E87) |
 | [ScottLilly.FluentEmail](https://www.nuget.org/packages/ScottLilly.FluentEmail/) | ![v](https://img.shields.io/nuget/v/ScottLilly.FluentEmail?style=flat-square&label=) | ![d](https://img.shields.io/nuget/dt/ScottLilly.FluentEmail?style=flat-square&label=&color=423E87) |
 
-### Published Visual Studio extensions
-
-These are on the way soon.
-
-### Also public
-
-| Repo | What it is |
-|---|---|
-| [SpeechHandler](https://github.com/ScottLilly/SpeechHandler) | Speech to text and text to speech on Windows, with local Vosk, Whisper, ElevenLabs, Kokoro and Piper |
-| [Legba](https://github.com/ScottLilly/Legba) | WPF app for building and reusing LLM prompt prefixes. Named for [Papa Legba](https://en.wikipedia.org/wiki/Papa_Legba), who stood at the crossroads and passed messages along |
-| [CodeBundler](https://github.com/ScottLilly/CodeBundler) | Bundles a C# or VB.NET solution into one file, for pasting into an LLM |
-| [Pinax](https://github.com/ScottLilly/Pinax) | Reports which of your projects are on outdated .NET or NuGet versions |
-
 <!-- Widget: contribution streak. The commonly used github-readme-stats and github-profile-trophy
      services are both offline as of September 2026 (their free Vercel deployments are paused or
      out of quota), so this is the one that currently renders. -->
