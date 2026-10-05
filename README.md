@@ -1,7 +1,7 @@
 ## Scott Lilly
 
-I've been paid to write custom software for more than 40 years, in dozens of industries,
-on two continents, and in several languages.
+I've writing custom software for more than 40 years, in dozens of industries,
+on two continents, and in several languages (computer and human).
 
 These days, I'm working on:
 - Games to sell on Steam
