@@ -1,6 +1,6 @@
 ## Scott Lilly
 
-I've writing custom software for more than 40 years, in dozens of industries,
+I've written custom software for more than 40 years, in dozens of industries,
 on two continents, and in several languages (computer and human).
 
 These days, I'm working on:
