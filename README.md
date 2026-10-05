@@ -1,19 +1,13 @@
 ## Scott Lilly
 
 I've been paid to write custom software for more than 40 years, in dozens of industries,
-on two continents, and in languages that no longer exist.
+on two continents, and in several languages.
 
-These days, I'm working on three things:
-- Games I plan to sell
-- A multi-tenant SaaS
-- The developer tools that make the first two go faster
+These days, I'm working on things:
+- Games to sell on Steam
+- Developer tools to help me make better software faster
 
 But, I am available for remote C# work, generally back-end or desktop (WPF).
-
-[![Followers](https://img.shields.io/github/followers/ScottLilly?style=flat-square&label=followers&color=423E87)](https://github.com/ScottLilly?tab=followers)
-[![Stars](https://img.shields.io/badge/stars-495-423E87?style=flat-square)](https://github.com/ScottLilly?tab=repositories)
-[![Forks](https://img.shields.io/badge/forks-109-423E87?style=flat-square)](https://github.com/ScottLilly?tab=repositories)
-[![Website](https://img.shields.io/badge/scottlilly.com-423E87?style=flat-square)](https://scottlilly.com)
 
 ### Published Nuget packages
 
@@ -28,19 +22,6 @@ Small libraries pulled out of code I kept copying between solutions.
 ### Published Visual Studio extensions
 
 These are on the way soon.
-
-### Currently building
-
-- **MogriChess**, a chess variant where a capturing piece absorbs the movement abilities of the
-  piece it takes. The name comes from the Calvin and Hobbes
-  [Transmogrifier](https://calvinandhobbes.fandom.com/wiki/Transmogrifier). The
-  [public repo](https://github.com/ScottLilly/MogriChess) is the original WPF version; the one I
-  am finishing now is a rewrite aimed at Steam.
-- **A secret multi-tenant SaaS**, which is where the unglamorous work goes: tenancy, audit
-  trails, import and export.
-- **Developer tooling**, some of it public.
-  [SolutionScribe](https://github.com/ScottLilly/SolutionScribe) generates the LICENSE, README and
-  other boilerplate documents for a solution.
 
 ### Also public
 
