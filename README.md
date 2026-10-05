@@ -3,7 +3,7 @@
 I've been paid to write custom software for more than 40 years, in dozens of industries,
 on two continents, and in several languages.
 
-These days, I'm working on things:
+These days, I'm working on:
 - Games to sell on Steam
 - Developer tools to help me make better software faster
 
